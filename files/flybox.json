@@ -1,0 +1,11 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "thief_invade_total_times": "10",
+      "thief_invade_interval": "60",
+      "thief_invade_redpacket_reward": [75, 100],
+      "get_type": "3"
+    }
+  ]
+}

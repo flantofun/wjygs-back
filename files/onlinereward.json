@@ -1,0 +1,11 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "online_reward_times": "10",
+      "online_reward": [75, 100],
+      "online_reward_cd": "120",
+      "get_type": "3"
+    }
+  ]
+}

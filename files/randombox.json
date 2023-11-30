@@ -1,0 +1,15 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "random_redpacket_interval": "30",
+      "random_redpacket_total_times": "75",
+      "random_redpacket_ads_total_times": "10",
+      "random_redpacket_trigger": [3],
+      "random_redpacket_tiny": [10, 30],
+      "random_redpacket_tiny_limit": "3",
+      "random_redpacket_huge": [750, 1000],
+      "random_redpacket_huge_limit": "2"
+    }
+  ]
+}

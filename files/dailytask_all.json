@@ -1,0 +1,64 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "type": "19",
+      "parameter": "10",
+      "icon": "0",
+      "description": "观看%d次广告",
+      "reward": "[3,0,5000]",
+      "get_type": "1",
+      "multiple": "0"
+    },
+    {
+      "id": "2",
+      "type": "20",
+      "parameter": "100",
+      "icon": "0",
+      "description": "招待%d个客户",
+      "reward": "[3,0,3000]",
+      "get_type": "1",
+      "multiple": "0"
+    },
+    {
+      "id": "3",
+      "type": "21",
+      "parameter": "70",
+      "icon": "0",
+      "description": "印发%d份传单",
+      "reward": "[3,0,3000]",
+      "get_type": "1",
+      "multiple": "0"
+    },
+    {
+      "id": "4",
+      "type": "22",
+      "parameter": "3",
+      "icon": "0",
+      "description": "接待李总%d次",
+      "reward": "[3,0,3000]",
+      "get_type": "1",
+      "multiple": "0"
+    },
+    {
+      "id": "5",
+      "type": "23",
+      "parameter": "3",
+      "icon": "0",
+      "description": "招揽客户%d次",
+      "reward": "[3,0,3000]",
+      "get_type": "1",
+      "multiple": "0"
+    },
+    {
+      "id": "6",
+      "type": "24",
+      "parameter": "10000",
+      "icon": "0",
+      "description": "获取客户充值%d",
+      "reward": "[3,0,1500]",
+      "get_type": "1",
+      "multiple": "0"
+    }
+  ]
+}

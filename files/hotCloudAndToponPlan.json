@@ -1,0 +1,36 @@
+{
+  "__comment1__": "hotCloudPlan signIn(服务端比例激活) incentiveAd(客户端激励视频激活) withdraw(首次提现后激活)",
+  "__comment2__": "hotCloudPlan signIn(服务端开启)  withdraw(首次提现后激活)",
+  "__comment3__": "0.01%  用 1 表示",
+  "__comment4__": "0.1%  用 10 表示",
+  "__comment5__": "1%  用 100 表示, 以此类推，1为最小，最大为10000",
+  "default": {
+    "hotCloudPlan": "withdraw",
+    "toponPlan": "signIn"
+  },
+  "ke01": {
+    "hotCloudPlan": "signIn",
+    "activationProbability": 7000,
+    "toponPlan": "signIn"
+  },
+  "ke03": {
+    "hotCloudPlan": "signIn",
+    "activationProbability": 7000,
+    "toponPlan": "signIn"
+  },
+  "ks01": {
+    "hotCloudPlan": "signIn",
+    "activationProbability": 5000,
+    "toponPlan": "signIn"
+  },
+  "ks02": {
+    "hotCloudPlan": "signIn",
+    "activationProbability": 5000,
+    "toponPlan": "signIn"
+  },
+  "ks14": {
+    "hotCloudPlan": "signIn",
+    "activationProbability": 3000,
+    "toponPlan": "signIn"
+  }
+}

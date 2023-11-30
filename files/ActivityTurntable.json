@@ -1,0 +1,100 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "type": "1",
+      "item": [2, 0, 500],
+      "multiple": "0",
+      "ratio": "25",
+      "icon": "icon/item/shaoliang_icon3",
+      "get_type": "1",
+      "normal_reward_multiple": "1",
+      "is_need_video": "0",
+      "name": "红包+500"
+    },
+    {
+      "id": "2",
+      "type": "1",
+      "item": [1, 0, 30],
+      "multiple": "0",
+      "ratio": "2",
+      "icon": "icon/item/tili2_icon",
+      "get_type": "3",
+      "normal_reward_multiple": "1",
+      "is_need_video": "1",
+      "name": "体力+30"
+    },
+    {
+      "id": "3",
+      "type": "1",
+      "item": [2, 0, 1500],
+      "multiple": "0",
+      "ratio": "33",
+      "icon": "icon/item/zhongliang_icon3",
+      "get_type": "3",
+      "normal_reward_multiple": "1",
+      "is_need_video": "1",
+      "name": "红包+1500"
+    },
+    {
+      "id": "4",
+      "type": "1",
+      "item": [1, 0, 5],
+      "multiple": "0",
+      "ratio": "11",
+      "icon": "icon/item/shaoliang_icon2",
+      "get_type": "1",
+      "normal_reward_multiple": "1",
+      "is_need_video": "0",
+      "name": "体力+5"
+    },
+    {
+      "id": "5",
+      "type": "1",
+      "item": [2, 0, 2000],
+      "multiple": "0",
+      "ratio": "10",
+      "icon": "icon/item/daliang-icon3",
+      "get_type": "3",
+      "normal_reward_multiple": "1",
+      "is_need_video": "1",
+      "name": "红包+2000"
+    },
+    {
+      "id": "6",
+      "type": "1",
+      "item": [1, 0, 20],
+      "multiple": "0",
+      "ratio": "10",
+      "icon": "icon/item/zhongliang_icon2",
+      "get_type": "3",
+      "normal_reward_multiple": "1",
+      "is_need_video": "1",
+      "name": "体力+20"
+    },
+    {
+      "id": "7",
+      "type": "1",
+      "item": [2, 0, 2500],
+      "multiple": "0",
+      "ratio": "3",
+      "icon": "icon/item/juliang_icon3",
+      "get_type": "3",
+      "normal_reward_multiple": "1",
+      "is_need_video": "1",
+      "name": "红包+2500"
+    },
+    {
+      "id": "8",
+      "type": "1",
+      "item": [1, 0, 25],
+      "multiple": "0",
+      "ratio": "6",
+      "icon": "icon/item/daliang-icon2",
+      "get_type": "3",
+      "normal_reward_multiple": "1",
+      "is_need_video": "1",
+      "name": "体力+25"
+    }
+  ]
+}

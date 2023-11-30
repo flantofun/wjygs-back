@@ -1,0 +1,154 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "icon": "shengji",
+      "customer_num": "0",
+      "task_description": "招待%d个客户",
+      "cash": "0",
+      "reward": "[3,0,0]",
+      "base_money_reward": "1000",
+      "base_coin_reward": "2000"
+    },
+    {
+      "id": "2",
+      "icon": "shengji",
+      "customer_num": "2",
+      "task_description": "招待%d个客户",
+      "cash": "2",
+      "reward": "[3,0,20000]",
+      "base_money_reward": "2000",
+      "base_coin_reward": "4000"
+    },
+    {
+      "id": "3",
+      "icon": "shengji",
+      "customer_num": "80",
+      "task_description": "招待%d个客户",
+      "cash": "4",
+      "reward": "[3,0,40000]",
+      "base_money_reward": "4000",
+      "base_coin_reward": "8000"
+    },
+    {
+      "id": "4",
+      "icon": "shengji",
+      "customer_num": "250",
+      "task_description": "招待%d个客户",
+      "cash": "6",
+      "reward": "[3,0,60000]",
+      "base_money_reward": "5000",
+      "base_coin_reward": "10000"
+    },
+    {
+      "id": "5",
+      "icon": "shengji",
+      "customer_num": "450",
+      "task_description": "招待%d个客户",
+      "cash": "8",
+      "reward": "[3,0,80000]",
+      "base_money_reward": "6000",
+      "base_coin_reward": "12000"
+    },
+    {
+      "id": "6",
+      "icon": "shengji",
+      "customer_num": "800",
+      "task_description": "招待%d个客户",
+      "cash": "10",
+      "reward": "[3,0,100000]",
+      "base_money_reward": "8000",
+      "base_coin_reward": "16000"
+    },
+    {
+      "id": "7",
+      "icon": "shengji",
+      "customer_num": "1200",
+      "task_description": "招待%d个客户",
+      "cash": "15",
+      "reward": "[3,0,150000]",
+      "base_money_reward": "12000",
+      "base_coin_reward": "20000"
+    },
+    {
+      "id": "8",
+      "icon": "shengji",
+      "customer_num": "2000",
+      "task_description": "招待%d个客户",
+      "cash": "20",
+      "reward": "[3,0,200000]",
+      "base_money_reward": "16000",
+      "base_coin_reward": "24000"
+    },
+    {
+      "id": "9",
+      "icon": "shengji",
+      "customer_num": "3000",
+      "task_description": "招待%d个客户",
+      "cash": "30",
+      "reward": "[3,0,300000]",
+      "base_money_reward": "20000",
+      "base_coin_reward": "28000"
+    },
+    {
+      "id": "10",
+      "icon": "shengji",
+      "customer_num": "4000",
+      "task_description": "招待%d个客户",
+      "cash": "40",
+      "reward": "[3,0,400000]",
+      "base_money_reward": "40000",
+      "base_coin_reward": "32000"
+    },
+    {
+      "id": "11",
+      "icon": "shengji",
+      "customer_num": "5200",
+      "task_description": "招待%d个客户",
+      "cash": "60",
+      "reward": "[3,0,600000]",
+      "base_money_reward": "80000",
+      "base_coin_reward": "36000"
+    },
+    {
+      "id": "12",
+      "icon": "shengji",
+      "customer_num": "6400",
+      "task_description": "招待%d个客户",
+      "cash": "80",
+      "reward": "[3,0,800000]",
+      "base_money_reward": "120000",
+      "base_coin_reward": "40000"
+    },
+    {
+      "id": "13",
+      "icon": "shengji",
+      "customer_num": "8400",
+      "task_description": "招待%d个客户",
+      "cash": "100",
+      "reward": "[3,0,1000000]",
+      "base_money_reward": "140000",
+      "base_coin_reward": "44000"
+    },
+    {
+      "id": "14",
+      "icon": "shengji",
+      "customer_num": "12000",
+      "task_description": "招待%d个客户",
+      "cash": "150",
+      "reward": "[3,0,1500000]",
+      "base_money_reward": "160000",
+      "base_coin_reward": "48000"
+    },
+    {
+      "id": "15",
+      "icon": "shengji",
+      "customer_num": "20000",
+      "task_description": "招待%d个客户",
+      "cash": "200",
+      "reward": "[3,0,2000000]",
+      "base_money_reward": "320000",
+      "base_coin_reward": "52000"
+    }
+  ]
+}

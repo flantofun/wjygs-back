@@ -1,0 +1,15 @@
+{
+  "RECORDS": [
+    {
+      "id": "1001",
+      "name": "凤凰",
+      "description": "凤凰",
+      "model": "kana_l",
+      "level": "60",
+      "is_atk": "0",
+      "is_in_bag": "0",
+      "atk": "0",
+      "atk_speed": "0"
+    }
+  ]
+}

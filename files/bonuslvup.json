@@ -1,0 +1,76 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "res": "icon/tree/02",
+      "need_drops": "500",
+      "cost_each_time": "100"
+    },
+    {
+      "id": "2",
+      "res": "icon/tree/03",
+      "need_drops": "1000",
+      "cost_each_time": "100"
+    },
+    {
+      "id": "3",
+      "res": "icon/tree/04",
+      "need_drops": "2000",
+      "cost_each_time": "100"
+    },
+    {
+      "id": "4",
+      "res": "icon/tree/05",
+      "need_drops": "6000",
+      "cost_each_time": "100"
+    },
+    {
+      "id": "5",
+      "res": "icon/tree/06",
+      "need_drops": "18000",
+      "cost_each_time": "100"
+    },
+    {
+      "id": "6",
+      "res": "icon/tree/07",
+      "need_drops": "72000",
+      "cost_each_time": "100"
+    },
+    {
+      "id": "7",
+      "res": "icon/tree/07",
+      "need_drops": "288000",
+      "cost_each_time": "100"
+    },
+    {
+      "id": "8",
+      "res": "icon/tree/07",
+      "need_drops": "1152000",
+      "cost_each_time": "100"
+    },
+    {
+      "id": "9",
+      "res": "icon/tree/07",
+      "need_drops": "4608000",
+      "cost_each_time": "100"
+    },
+    {
+      "id": "10",
+      "res": "icon/tree/07",
+      "need_drops": "23040000",
+      "cost_each_time": "100"
+    },
+    {
+      "id": "11",
+      "res": "icon/tree/07",
+      "need_drops": "138240000",
+      "cost_each_time": "100"
+    },
+    {
+      "id": "12",
+      "res": "icon/tree/07",
+      "need_drops": "0",
+      "cost_each_time": "100"
+    }
+  ]
+}

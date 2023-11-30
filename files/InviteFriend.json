@@ -1,0 +1,104 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "2",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "3",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "4",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "5",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "6",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "7",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "8",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "9",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "10",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "11",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "12",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "13",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "14",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "15",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "16",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "17",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "18",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "19",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    },
+    {
+      "id": "20",
+      "invite_friends_each_reward": "[9,9000004,1]",
+      "condition": "[[1,1],[2,10]]"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "grade": "1级丧尸克星",
+      "res": "img_quantoujiangpai01",
+      "star_nums": "1",
+      "experience": "0",
+      "cash_show": "",
+      "reward": []
+    },
+    {
+      "id": "2",
+      "grade": "2级丧尸克星",
+      "res": "img_quantoujiangpai01",
+      "star_nums": "2",
+      "experience": "1500",
+      "cash_show": "2元",
+      "reward": [2, 0, 20000]
+    },
+    {
+      "id": "3",
+      "grade": "3级丧尸克星",
+      "res": "img_quantoujiangpai01",
+      "star_nums": "3",
+      "experience": "3500",
+      "cash_show": "4元",
+      "reward": [2, 0, 40000]
+    },
+    {
+      "id": "4",
+      "grade": "4级丧尸克星",
+      "res": "img_quantoujiangpai01",
+      "star_nums": "4",
+      "experience": "6000",
+      "cash_show": "6元",
+      "reward": [2, 0, 60000]
+    },
+    {
+      "id": "5",
+      "grade": "5级丧尸克星",
+      "res": "img_quantoujiangpai01_02",
+      "star_nums": "1",
+      "experience": "9500",
+      "cash_show": "8元",
+      "reward": [2, 0, 80000]
+    },
+    {
+      "id": "6",
+      "grade": "6级丧尸克星",
+      "res": "img_quantoujiangpai01_02",
+      "star_nums": "2",
+      "experience": "14000",
+      "cash_show": "10元",
+      "reward": [2, 0, 100000]
+    },
+    {
+      "id": "7",
+      "grade": "7级丧尸克星",
+      "res": "img_quantoujiangpai01_02",
+      "star_nums": "3",
+      "experience": "19500",
+      "cash_show": "15元",
+      "reward": [2, 0, 150000]
+    },
+    {
+      "id": "8",
+      "grade": "8级丧尸克星",
+      "res": "img_quantoujiangpai01_02",
+      "star_nums": "4",
+      "experience": "26500",
+      "cash_show": "20元",
+      "reward": [2, 0, 200000]
+    },
+    {
+      "id": "9",
+      "grade": "9级丧尸克星",
+      "res": "img_quantoujiangpai01_04",
+      "star_nums": "1",
+      "experience": "35500",
+      "cash_show": "25元",
+      "reward": [2, 0, 250000]
+    },
+    {
+      "id": "10",
+      "grade": "10级丧尸克星",
+      "res": "img_quantoujiangpai01_04",
+      "star_nums": "2",
+      "experience": "46500",
+      "cash_show": "30元",
+      "reward": [2, 0, 300000]
+    },
+    {
+      "id": "11",
+      "grade": "11级丧尸克星",
+      "res": "img_quantoujiangpai01_04",
+      "star_nums": "3",
+      "experience": "61500",
+      "cash_show": "40元",
+      "reward": [2, 0, 400000]
+    },
+    {
+      "id": "12",
+      "grade": "12级丧尸克星",
+      "res": "img_quantoujiangpai01_04",
+      "star_nums": "4",
+      "experience": "81500",
+      "cash_show": "50元",
+      "reward": [2, 0, 500000]
+    },
+    {
+      "id": "13",
+      "grade": "13级丧尸克星",
+      "res": "img_quantoujiangpai01_03",
+      "star_nums": "1",
+      "experience": "106500",
+      "cash_show": "60元",
+      "reward": [2, 0, 600000]
+    },
+    {
+      "id": "14",
+      "grade": "14级丧尸克星",
+      "res": "img_quantoujiangpai01_03",
+      "star_nums": "2",
+      "experience": "136500",
+      "cash_show": "70元",
+      "reward": [2, 0, 700000]
+    },
+    {
+      "id": "15",
+      "grade": "15级丧尸克星",
+      "res": "img_quantoujiangpai01_03",
+      "star_nums": "3",
+      "experience": "176500",
+      "cash_show": "80元",
+      "reward": [2, 0, 800000]
+    },
+    {
+      "id": "16",
+      "grade": "16级丧尸克星",
+      "res": "img_quantoujiangpai01_03",
+      "star_nums": "4",
+      "experience": "256500",
+      "cash_show": "90元",
+      "reward": [2, 0, 900000]
+    },
+    {
+      "id": "17",
+      "grade": "17级丧尸克星",
+      "res": "img_quantoujiangpai01_06",
+      "star_nums": "1",
+      "experience": "424500",
+      "cash_show": "100元",
+      "reward": [2, 0, 1000000]
+    },
+    {
+      "id": "18",
+      "grade": "18级丧尸克星",
+      "res": "img_quantoujiangpai01_06",
+      "star_nums": "2",
+      "experience": "760500",
+      "cash_show": "150元",
+      "reward": [2, 0, 1500000]
+    },
+    {
+      "id": "19",
+      "grade": "19级丧尸克星",
+      "res": "img_quantoujiangpai01_06",
+      "star_nums": "3",
+      "experience": "1440500",
+      "cash_show": "200元",
+      "reward": [2, 0, 2000000]
+    },
+    {
+      "id": "20",
+      "grade": "20级丧尸克星",
+      "res": "img_quantoujiangpai01_06",
+      "star_nums": "4",
+      "experience": "3120500",
+      "cash_show": "500元",
+      "reward": [2, 0, 5000000]
+    }
+  ]
+}

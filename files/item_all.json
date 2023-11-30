@@ -1,0 +1,56 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "type": "1",
+      "icon": "",
+      "name": "体力",
+      "description": "体力",
+      "quality": "2",
+      "is_recovery": "0",
+      "recovery_price": "0",
+      "is_display": "0",
+      "superposition": "0",
+      "sell_price": "0"
+    },
+    {
+      "id": "2",
+      "type": "2",
+      "icon": "",
+      "name": "红包币",
+      "description": "红包币",
+      "quality": "2",
+      "is_recovery": "0",
+      "recovery_price": "0",
+      "is_display": "0",
+      "superposition": "0",
+      "sell_price": "0"
+    },
+    {
+      "id": "3",
+      "type": "3",
+      "icon": "",
+      "name": "钞票",
+      "description": "钞票",
+      "quality": "2",
+      "is_recovery": "0",
+      "recovery_price": "0",
+      "is_display": "0",
+      "superposition": "0",
+      "sell_price": "0"
+    },
+    {
+      "id": "4",
+      "type": "4",
+      "icon": "",
+      "name": "进度",
+      "description": "进度",
+      "quality": "2",
+      "is_recovery": "0",
+      "recovery_price": "0",
+      "is_display": "0",
+      "superposition": "0",
+      "sell_price": "0"
+    }
+  ]
+}

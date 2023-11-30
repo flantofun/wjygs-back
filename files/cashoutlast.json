@@ -1,0 +1,99 @@
+{
+  "RECORDS": [
+    {
+      "id": "1001",
+      "cash": "0.3",
+      "cost": "0",
+      "times": "7",
+      "former_id": "0",
+      "video_coin_num": [5, 8, 10, 13, 15, 18, 20],
+      "unlock_condition": [0, 5, 10, 20, 30, 40, 50],
+      "progress_section": [
+        [20.0, 20.0],
+        [10.0, 12.5],
+        [7.692, 10.0],
+        [6.667, 7.692],
+        [5.556, 6.667],
+        [4.545, 5.556],
+        [4.0, 5.0]
+      ],
+      "channel": "[NATIVE]"
+    },
+    {
+      "id": "1002",
+      "cash": "0.4",
+      "cost": "0",
+      "times": "3",
+      "former_id": "1001",
+      "video_coin_num": [30, 35, 40],
+      "unlock_condition": [70, 90, 120],
+      "progress_section": [
+        [2.857, 3.333],
+        [2.5, 2.857],
+        [2.22, 2.5]
+      ],
+      "channel": "[NATIVE]"
+    },
+    {
+      "id": "1003",
+      "cash": "0.5",
+      "cost": "0",
+      "times": "2",
+      "former_id": "1002",
+      "video_coin_num": [60, 65],
+      "unlock_condition": [150, 200],
+      "progress_section": [
+        [1.429, 1.667],
+        [1.333, 1.538]
+      ],
+      "channel": "[NATIVE]"
+    },
+    {
+      "id": "1004",
+      "cash": "1",
+      "cost": "0",
+      "times": "2",
+      "former_id": "1003",
+      "video_coin_num": [120, 130],
+      "unlock_condition": [250, 300],
+      "progress_section": [
+        [0.667, 0.833],
+        [0.625, 0.769]
+      ],
+      "channel": "[NATIVE]"
+    },
+    {
+      "id": "1005",
+      "cash": "2",
+      "cost": "0",
+      "times": "1",
+      "former_id": "1004",
+      "video_coin_num": [260],
+      "unlock_condition": [400],
+      "progress_section": [[0.333, 0.384]],
+      "channel": "[NATIVE]"
+    },
+    {
+      "id": "1006",
+      "cash": "20",
+      "cost": "0",
+      "times": "1",
+      "former_id": "1005",
+      "video_coin_num": [2600],
+      "unlock_condition": [600],
+      "progress_section": [[0.033, 0.038]],
+      "channel": "[NATIVE]"
+    },
+    {
+      "id": "1007",
+      "cash": "50",
+      "cost": "0",
+      "times": "0",
+      "former_id": "1006",
+      "video_coin_num": [6500],
+      "unlock_condition": [1000],
+      "progress_section": [[0.014, 0.015]],
+      "channel": "[NATIVE]"
+    }
+  ]
+}

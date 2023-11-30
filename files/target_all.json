@@ -1,0 +1,2244 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "type": "3",
+      "parameter": "301",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "2",
+      "type": "4",
+      "parameter": "201",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "3",
+      "type": "3",
+      "parameter": "401",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "4",
+      "type": "3",
+      "parameter": "501",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "5",
+      "type": "4",
+      "parameter": "301",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "6",
+      "type": "2",
+      "parameter": "2",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "7",
+      "type": "3",
+      "parameter": "601",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "8",
+      "type": "3",
+      "parameter": "701",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "9",
+      "type": "3",
+      "parameter": "801",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "10",
+      "type": "4",
+      "parameter": "401",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "11",
+      "type": "3",
+      "parameter": "901",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "12",
+      "type": "2",
+      "parameter": "4",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "13",
+      "type": "3",
+      "parameter": "1001",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "14",
+      "type": "3",
+      "parameter": "1101",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "15",
+      "type": "4",
+      "parameter": "501",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "16",
+      "type": "3",
+      "parameter": "1201",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "17",
+      "type": "3",
+      "parameter": "1301",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "18",
+      "type": "2",
+      "parameter": "6",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "19",
+      "type": "4",
+      "parameter": "601",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "20",
+      "type": "3",
+      "parameter": "1401",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "21",
+      "type": "3",
+      "parameter": "102",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "22",
+      "type": "8",
+      "parameter": "1",
+      "description": "累计升级助理%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "23",
+      "type": "3",
+      "parameter": "202",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "24",
+      "type": "4",
+      "parameter": "701",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "25",
+      "type": "2",
+      "parameter": "8",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "26",
+      "type": "3",
+      "parameter": "302",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "27",
+      "type": "3",
+      "parameter": "402",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "28",
+      "type": "6",
+      "parameter": "1",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "29",
+      "type": "3",
+      "parameter": "502",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "30",
+      "type": "4",
+      "parameter": "801",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "31",
+      "type": "3",
+      "parameter": "602",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "32",
+      "type": "5",
+      "parameter": "1",
+      "description": "累计招揽客户%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "33",
+      "type": "2",
+      "parameter": "10",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "34",
+      "type": "3",
+      "parameter": "702",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "35",
+      "type": "3",
+      "parameter": "802",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "36",
+      "type": "6",
+      "parameter": "2",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "37",
+      "type": "4",
+      "parameter": "901",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "38",
+      "type": "3",
+      "parameter": "902",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "39",
+      "type": "3",
+      "parameter": "1002",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "40",
+      "type": "7",
+      "parameter": "1",
+      "description": "累计%d次自动招待",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "41",
+      "type": "2",
+      "parameter": "15",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "42",
+      "type": "3",
+      "parameter": "1102",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "43",
+      "type": "4",
+      "parameter": "1001",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "44",
+      "type": "6",
+      "parameter": "3",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "45",
+      "type": "3",
+      "parameter": "1202",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "46",
+      "type": "3",
+      "parameter": "1302",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "47",
+      "type": "4",
+      "parameter": "1101",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "48",
+      "type": "9",
+      "parameter": "1",
+      "description": "使用%d次收益翻倍",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "49",
+      "type": "2",
+      "parameter": "20",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "50",
+      "type": "3",
+      "parameter": "1402",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "51",
+      "type": "3",
+      "parameter": "103",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "52",
+      "type": "8",
+      "parameter": "2",
+      "description": "累计升级助理%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "53",
+      "type": "6",
+      "parameter": "4",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "54",
+      "type": "3",
+      "parameter": "203",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "55",
+      "type": "4",
+      "parameter": "1201",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "56",
+      "type": "3",
+      "parameter": "303",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "57",
+      "type": "5",
+      "parameter": "2",
+      "description": "累计招揽客户%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "58",
+      "type": "2",
+      "parameter": "25",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "59",
+      "type": "3",
+      "parameter": "403",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "60",
+      "type": "3",
+      "parameter": "503",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "61",
+      "type": "6",
+      "parameter": "5",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "62",
+      "type": "4",
+      "parameter": "1301",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "63",
+      "type": "3",
+      "parameter": "603",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "64",
+      "type": "3",
+      "parameter": "703",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "65",
+      "type": "7",
+      "parameter": "2",
+      "description": "累计%d次自动招待",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "66",
+      "type": "2",
+      "parameter": "30",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "67",
+      "type": "3",
+      "parameter": "803",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "68",
+      "type": "4",
+      "parameter": "1401",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "69",
+      "type": "6",
+      "parameter": "6",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "70",
+      "type": "3",
+      "parameter": "903",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "71",
+      "type": "3",
+      "parameter": "1003",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "72",
+      "type": "3",
+      "parameter": "1103",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "73",
+      "type": "9",
+      "parameter": "2",
+      "description": "使用%d次收益翻倍",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "74",
+      "type": "2",
+      "parameter": "35",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "75",
+      "type": "4",
+      "parameter": "1301",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "76",
+      "type": "3",
+      "parameter": "1203",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "77",
+      "type": "6",
+      "parameter": "8",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "78",
+      "type": "3",
+      "parameter": "1303",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "79",
+      "type": "4",
+      "parameter": "1401",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "80",
+      "type": "3",
+      "parameter": "1403",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "81",
+      "type": "5",
+      "parameter": "3",
+      "description": "累计招揽客户%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "82",
+      "type": "2",
+      "parameter": "40",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "83",
+      "type": "3",
+      "parameter": "104",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "84",
+      "type": "8",
+      "parameter": "3",
+      "description": "累计升级助理%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "85",
+      "type": "6",
+      "parameter": "10",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "86",
+      "type": "3",
+      "parameter": "204",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "87",
+      "type": "4",
+      "parameter": "1501",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "88",
+      "type": "3",
+      "parameter": "304",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "89",
+      "type": "3",
+      "parameter": "404",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "90",
+      "type": "7",
+      "parameter": "3",
+      "description": "累计%d次自动招待",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "91",
+      "type": "2",
+      "parameter": "45",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "92",
+      "type": "3",
+      "parameter": "504",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "93",
+      "type": "4",
+      "parameter": "1601",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "94",
+      "type": "6",
+      "parameter": "12",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "95",
+      "type": "3",
+      "parameter": "604",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "96",
+      "type": "3",
+      "parameter": "704",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "97",
+      "type": "3",
+      "parameter": "804",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "98",
+      "type": "9",
+      "parameter": "3",
+      "description": "使用%d次收益翻倍",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "99",
+      "type": "2",
+      "parameter": "50",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "100",
+      "type": "4",
+      "parameter": "1701",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "101",
+      "type": "3",
+      "parameter": "905",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "102",
+      "type": "6",
+      "parameter": "14",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "103",
+      "type": "3",
+      "parameter": "1004",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "104",
+      "type": "3",
+      "parameter": "1104",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "105",
+      "type": "4",
+      "parameter": "1801",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "106",
+      "type": "5",
+      "parameter": "4",
+      "description": "累计招揽客户%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "107",
+      "type": "2",
+      "parameter": "60",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "108",
+      "type": "3",
+      "parameter": "1204",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "109",
+      "type": "3",
+      "parameter": "1304",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "110",
+      "type": "6",
+      "parameter": "16",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "111",
+      "type": "4",
+      "parameter": "1901",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "112",
+      "type": "3",
+      "parameter": "1404",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "113",
+      "type": "3",
+      "parameter": "105",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "114",
+      "type": "8",
+      "parameter": "4",
+      "description": "累计升级助理%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "115",
+      "type": "7",
+      "parameter": "4",
+      "description": "累计%d次自动招待",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "116",
+      "type": "2",
+      "parameter": "70",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "117",
+      "type": "3",
+      "parameter": "205",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "118",
+      "type": "4",
+      "parameter": "2001",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "119",
+      "type": "6",
+      "parameter": "18",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "120",
+      "type": "3",
+      "parameter": "305",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "121",
+      "type": "3",
+      "parameter": "405",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "122",
+      "type": "3",
+      "parameter": "505",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "123",
+      "type": "9",
+      "parameter": "4",
+      "description": "使用%d次收益翻倍",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "124",
+      "type": "2",
+      "parameter": "80",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "125",
+      "type": "4",
+      "parameter": "2101",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "126",
+      "type": "3",
+      "parameter": "605",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "127",
+      "type": "6",
+      "parameter": "20",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "128",
+      "type": "3",
+      "parameter": "705",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "129",
+      "type": "3",
+      "parameter": "805",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "130",
+      "type": "4",
+      "parameter": "2201",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "131",
+      "type": "5",
+      "parameter": "5",
+      "description": "累计招揽客户%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "132",
+      "type": "2",
+      "parameter": "90",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "133",
+      "type": "3",
+      "parameter": "905",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "134",
+      "type": "3",
+      "parameter": "1005",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "135",
+      "type": "6",
+      "parameter": "25",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "136",
+      "type": "3",
+      "parameter": "1105",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "137",
+      "type": "4",
+      "parameter": "2301",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "138",
+      "type": "3",
+      "parameter": "1205",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "139",
+      "type": "7",
+      "parameter": "5",
+      "description": "累计%d次自动招待",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "140",
+      "type": "2",
+      "parameter": "100",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "141",
+      "type": "3",
+      "parameter": "1305",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "142",
+      "type": "4",
+      "parameter": "2401",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "143",
+      "type": "6",
+      "parameter": "30",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "144",
+      "type": "3",
+      "parameter": "1405",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "145",
+      "type": "3",
+      "parameter": "106",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "146",
+      "type": "8",
+      "parameter": "5",
+      "description": "累计升级助理%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "147",
+      "type": "3",
+      "parameter": "206",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "148",
+      "type": "9",
+      "parameter": "5",
+      "description": "使用%d次收益翻倍",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "149",
+      "type": "2",
+      "parameter": "120",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "150",
+      "type": "4",
+      "parameter": "2501",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "151",
+      "type": "3",
+      "parameter": "306",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "152",
+      "type": "6",
+      "parameter": "35",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "153",
+      "type": "3",
+      "parameter": "406",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "154",
+      "type": "3",
+      "parameter": "506",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "155",
+      "type": "4",
+      "parameter": "2601",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "156",
+      "type": "5",
+      "parameter": "6",
+      "description": "累计招揽客户%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "157",
+      "type": "2",
+      "parameter": "140",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "158",
+      "type": "3",
+      "parameter": "606",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "159",
+      "type": "3",
+      "parameter": "706",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "160",
+      "type": "6",
+      "parameter": "40",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "161",
+      "type": "3",
+      "parameter": "806",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "162",
+      "type": "4",
+      "parameter": "2701",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "163",
+      "type": "3",
+      "parameter": "906",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "164",
+      "type": "7",
+      "parameter": "6",
+      "description": "累计%d次自动招待",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "165",
+      "type": "2",
+      "parameter": "160",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "166",
+      "type": "3",
+      "parameter": "1006",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "167",
+      "type": "3",
+      "parameter": "1106",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "168",
+      "type": "6",
+      "parameter": "45",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "169",
+      "type": "4",
+      "parameter": "2801",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "170",
+      "type": "3",
+      "parameter": "1206",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "171",
+      "type": "3",
+      "parameter": "1306",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "172",
+      "type": "9",
+      "parameter": "6",
+      "description": "使用%d次收益翻倍",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "173",
+      "type": "2",
+      "parameter": "180",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "174",
+      "type": "4",
+      "parameter": "2901",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "175",
+      "type": "3",
+      "parameter": "1406",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "176",
+      "type": "3",
+      "parameter": "107",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "177",
+      "type": "6",
+      "parameter": "50",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "178",
+      "type": "8",
+      "parameter": "6",
+      "description": "累计升级助理%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "179",
+      "type": "3",
+      "parameter": "207",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "180",
+      "type": "4",
+      "parameter": "3001",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "181",
+      "type": "5",
+      "parameter": "8",
+      "description": "累计招揽客户%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "182",
+      "type": "2",
+      "parameter": "200",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "183",
+      "type": "3",
+      "parameter": "307",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "184",
+      "type": "3",
+      "parameter": "407",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "185",
+      "type": "6",
+      "parameter": "55",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "186",
+      "type": "3",
+      "parameter": "507",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "187",
+      "type": "4",
+      "parameter": "3101",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "188",
+      "type": "3",
+      "parameter": "607",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "189",
+      "type": "7",
+      "parameter": "8",
+      "description": "累计%d次自动招待",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "190",
+      "type": "2",
+      "parameter": "250",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "191",
+      "type": "3",
+      "parameter": "707",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "192",
+      "type": "3",
+      "parameter": "807",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "193",
+      "type": "6",
+      "parameter": "60",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "194",
+      "type": "4",
+      "parameter": "3201",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "195",
+      "type": "3",
+      "parameter": "907",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "196",
+      "type": "3",
+      "parameter": "1007",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "197",
+      "type": "9",
+      "parameter": "8",
+      "description": "使用%d次收益翻倍",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "198",
+      "type": "2",
+      "parameter": "300",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "199",
+      "type": "3",
+      "parameter": "1107",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "200",
+      "type": "4",
+      "parameter": "3301",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "201",
+      "type": "6",
+      "parameter": "65",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "202",
+      "type": "3",
+      "parameter": "1207",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "203",
+      "type": "3",
+      "parameter": "1307",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "204",
+      "type": "4",
+      "parameter": "3401",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "205",
+      "type": "5",
+      "parameter": "10",
+      "description": "累计招揽客户%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "206",
+      "type": "2",
+      "parameter": "350",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "207",
+      "type": "3",
+      "parameter": "1407",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "208",
+      "type": "3",
+      "parameter": "108",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "209",
+      "type": "6",
+      "parameter": "70",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "210",
+      "type": "8",
+      "parameter": "7",
+      "description": "累计升级助理%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "211",
+      "type": "3",
+      "parameter": "208",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "212",
+      "type": "4",
+      "parameter": "3501",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "213",
+      "type": "3",
+      "parameter": "308",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "214",
+      "type": "7",
+      "parameter": "10",
+      "description": "累计%d次自动招待",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "215",
+      "type": "2",
+      "parameter": "400",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "216",
+      "type": "3",
+      "parameter": "408",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "217",
+      "type": "3",
+      "parameter": "508",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "218",
+      "type": "6",
+      "parameter": "75",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "219",
+      "type": "4",
+      "parameter": "3601",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "220",
+      "type": "3",
+      "parameter": "608",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "221",
+      "type": "3",
+      "parameter": "708",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "222",
+      "type": "9",
+      "parameter": "10",
+      "description": "使用%d次收益翻倍",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "223",
+      "type": "2",
+      "parameter": "500",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "224",
+      "type": "3",
+      "parameter": "808",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "225",
+      "type": "4",
+      "parameter": "3701",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "226",
+      "type": "6",
+      "parameter": "80",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "227",
+      "type": "3",
+      "parameter": "908",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "228",
+      "type": "3",
+      "parameter": "1008",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "229",
+      "type": "3",
+      "parameter": "1108",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "230",
+      "type": "5",
+      "parameter": "12",
+      "description": "累计招揽客户%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "231",
+      "type": "2",
+      "parameter": "600",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "232",
+      "type": "4",
+      "parameter": "3801",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "233",
+      "type": "3",
+      "parameter": "1208",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "234",
+      "type": "6",
+      "parameter": "85",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "235",
+      "type": "3",
+      "parameter": "1308",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "236",
+      "type": "4",
+      "parameter": "3901",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "237",
+      "type": "3",
+      "parameter": "1408",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "238",
+      "type": "7",
+      "parameter": "12",
+      "description": "累计%d次自动招待",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "239",
+      "type": "2",
+      "parameter": "700",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "240",
+      "type": "3",
+      "parameter": "109",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "241",
+      "type": "8",
+      "parameter": "8",
+      "description": "累计升级助理%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "242",
+      "type": "3",
+      "parameter": "209",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "243",
+      "type": "4",
+      "parameter": "4001",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "244",
+      "type": "6",
+      "parameter": "90",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "245",
+      "type": "3",
+      "parameter": "309",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "246",
+      "type": "3",
+      "parameter": "409",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "247",
+      "type": "9",
+      "parameter": "12",
+      "description": "使用%d次收益翻倍",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "248",
+      "type": "2",
+      "parameter": "800",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "249",
+      "type": "3",
+      "parameter": "509",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "250",
+      "type": "4",
+      "parameter": "4101",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "251",
+      "type": "6",
+      "parameter": "95",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "252",
+      "type": "3",
+      "parameter": "609",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "253",
+      "type": "3",
+      "parameter": "709",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "254",
+      "type": "3",
+      "parameter": "809",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "255",
+      "type": "5",
+      "parameter": "16",
+      "description": "累计招揽客户%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "256",
+      "type": "2",
+      "parameter": "1000",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "257",
+      "type": "4",
+      "parameter": "4201",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "258",
+      "type": "3",
+      "parameter": "909",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "259",
+      "type": "6",
+      "parameter": "100",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "260",
+      "type": "3",
+      "parameter": "1009",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "261",
+      "type": "3",
+      "parameter": "1109",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "262",
+      "type": "4",
+      "parameter": "4301",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "263",
+      "type": "7",
+      "parameter": "16",
+      "description": "累计%d次自动招待",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "264",
+      "type": "2",
+      "parameter": "2000",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "265",
+      "type": "3",
+      "parameter": "1209",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "266",
+      "type": "3",
+      "parameter": "1309",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "267",
+      "type": "6",
+      "parameter": "110",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "268",
+      "type": "4",
+      "parameter": "4401",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "269",
+      "type": "3",
+      "parameter": "1409",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "270",
+      "type": "3",
+      "parameter": "110",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "271",
+      "type": "8",
+      "parameter": "9",
+      "description": "累计升级助理%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "272",
+      "type": "9",
+      "parameter": "16",
+      "description": "使用%d次收益翻倍",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "273",
+      "type": "2",
+      "parameter": "3000",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "274",
+      "type": "3",
+      "parameter": "210",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "275",
+      "type": "4",
+      "parameter": "4501",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "276",
+      "type": "6",
+      "parameter": "120",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "277",
+      "type": "3",
+      "parameter": "310",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "278",
+      "type": "3",
+      "parameter": "410",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "279",
+      "type": "3",
+      "parameter": "510",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "280",
+      "type": "5",
+      "parameter": "20",
+      "description": "累计招揽客户%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "281",
+      "type": "2",
+      "parameter": "4000",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "282",
+      "type": "4",
+      "parameter": "4601",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "283",
+      "type": "3",
+      "parameter": "610",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "284",
+      "type": "6",
+      "parameter": "130",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "285",
+      "type": "3",
+      "parameter": "710",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "286",
+      "type": "3",
+      "parameter": "810",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "287",
+      "type": "4",
+      "parameter": "4701",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "288",
+      "type": "7",
+      "parameter": "20",
+      "description": "累计%d次自动招待",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "289",
+      "type": "2",
+      "parameter": "5000",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "290",
+      "type": "3",
+      "parameter": "910",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "291",
+      "type": "3",
+      "parameter": "1010",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "292",
+      "type": "6",
+      "parameter": "150",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "293",
+      "type": "3",
+      "parameter": "1110",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "294",
+      "type": "4",
+      "parameter": "4801",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "295",
+      "type": "3",
+      "parameter": "1210",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "296",
+      "type": "9",
+      "parameter": "20",
+      "description": "使用%d次收益翻倍",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "297",
+      "type": "2",
+      "parameter": "6000",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "298",
+      "type": "3",
+      "parameter": "1310",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "299",
+      "type": "4",
+      "parameter": "4901",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "300",
+      "type": "6",
+      "parameter": "160",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "301",
+      "type": "3",
+      "parameter": "1410",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "302",
+      "type": "4",
+      "parameter": "5001",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "303",
+      "type": "4",
+      "parameter": "5101",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "304",
+      "type": "5",
+      "parameter": "30",
+      "description": "累计招揽客户%d次",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "305",
+      "type": "2",
+      "parameter": "7000",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "306",
+      "type": "4",
+      "parameter": "5201",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "307",
+      "type": "4",
+      "parameter": "5301",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "308",
+      "type": "6",
+      "parameter": "200",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "309",
+      "type": "4",
+      "parameter": "5401",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "310",
+      "type": "4",
+      "parameter": "5501",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "311",
+      "type": "4",
+      "parameter": "5601",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "312",
+      "type": "7",
+      "parameter": "30",
+      "description": "累计%d次自动招待",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "313",
+      "type": "2",
+      "parameter": "8000",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "314",
+      "type": "4",
+      "parameter": "5701",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "315",
+      "type": "4",
+      "parameter": "5801",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "316",
+      "type": "6",
+      "parameter": "300",
+      "description": "累计印发%d张传单",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "317",
+      "type": "4",
+      "parameter": "5901",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "318",
+      "type": "4",
+      "parameter": "6001",
+      "description": "解锁%s",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "319",
+      "type": "9",
+      "parameter": "30",
+      "description": "使用%d次收益翻倍",
+      "reward": "[3,0,1000]"
+    },
+    {
+      "id": "320",
+      "type": "2",
+      "parameter": "10000",
+      "description": "累计招待%d个客户",
+      "reward": "[3,0,1000]"
+    }
+  ]
+}

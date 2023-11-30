@@ -1,0 +1,74 @@
+{
+  "RECORDS": [
+    {
+      "id": "1001",
+      "name": "次数奖励",
+      "description": "至少可得0.1元",
+      "task_desc": "累计提现%d/%d次",
+      "type": "1",
+      "parameter": "2",
+      "top_reward": "0.5",
+      "reward": [
+        [1000, 90],
+        [1500, 10],
+        [5000, 0]
+      ]
+    },
+    {
+      "id": "1002",
+      "name": "次数奖励",
+      "description": "至少可得0.2元",
+      "task_desc": "累计提现%d/%d次",
+      "type": "1",
+      "parameter": "5",
+      "top_reward": "1.5",
+      "reward": [
+        [2000, 95],
+        [2500, 5],
+        [15000, 0]
+      ]
+    },
+    {
+      "id": "1003",
+      "name": "次数奖励",
+      "description": "至少可得0.35元",
+      "task_desc": "累计提现%d/%d次",
+      "type": "1",
+      "parameter": "8",
+      "top_reward": "2.5",
+      "reward": [
+        [3500, 95],
+        [4000, 5],
+        [25000, 0]
+      ]
+    },
+    {
+      "id": "2001",
+      "name": "档次奖励",
+      "description": "至少可得0.25元",
+      "task_desc": "提现%d元（%d/%d）",
+      "type": "2",
+      "parameter": "2",
+      "top_reward": "2",
+      "reward": [
+        [2500, 95],
+        [3000, 5],
+        [20000, 0]
+      ]
+    },
+    {
+      "id": "2002",
+      "name": "档次奖励",
+      "description": "至少可得0.5元",
+      "task_desc": "提现%d元（%d/%d）",
+      "type": "2",
+      "parameter": "3",
+      "top_reward": "5",
+      "reward": [
+        [5000, 95],
+        [6000, 5],
+        [50000, 0]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "daily_limit": "10",
+      "total_limit": "-1"
+    },
+    {
+      "id": "2",
+      "daily_limit": "10",
+      "total_limit": "-1"
+    },
+    {
+      "id": "3",
+      "daily_limit": "0",
+      "total_limit": "-1"
+    },
+    {
+      "id": "5",
+      "daily_limit": "10",
+      "total_limit": "-1"
+    },
+    {
+      "id": "100",
+      "daily_limit": "200",
+      "total_limit": "-1"
+    },
+    {
+      "id": "102",
+      "daily_limit": "10",
+      "total_limit": "-1"
+    }
+  ]
+}
